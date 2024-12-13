@@ -1,26 +1,22 @@
-h1{
-  background-color: lightgray;
-  color:crimson;
-  padding: 50px;
+
+img {
+  width: 320px;
+  height: 420px;
+  padding-right: 3cm;
+}
+
+.item {
+  border: 10px solid darkred;
+  display: flex;
+  margin: auto;
+  width: 800px;
+  margin-bottom: 20px;
+  background-color: darkgrey;
+  font-size: 20px;
+}
+
+.title {
   text-align: center;
-}
-
-p1{
-  background-color: grey;
-  size: 20px;
-  body {
-    margin: 0;
-  }
+  font-size: 80px;
   
-  .container {
-    display: flex;
-    flex-direction: column;
-    height: 100vh;
-  }
-}
-
-
-
-body{
-  background-color: darkslategray;
 }
